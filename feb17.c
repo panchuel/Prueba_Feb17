@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main(void){
-    printf("Quiero morir\n")
+    printf("Quiero morir\n");
     return EXIT_SUCCESS;
 }
