@@ -1,3 +1,7 @@
+/*
+*   Autor: El Panchuelneitor
+*   Fecha: Hoy
+*/
 #include <stdio_ext.h>
 #include <stdlib.h>
 
